@@ -1,4 +1,5 @@
-# (Biblioteca Soul Society)Atualizado
+# (Biblioteca Soul Society)VERSÃO FINAL
+###Obs:Desculpe a confusão de projetos upados
 ## Padrões Gof
 * ### Adapter - Pacote
 * ### Factory - Pacote
