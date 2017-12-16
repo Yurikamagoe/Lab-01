@@ -3,5 +3,5 @@
 * ### Adapter - Pacote
 * ### Factory - Pacote
 * ### Observer - Pacote
-* ### Fachada - Classe que está em controlador
-* ### Singleton - Está implementado na classe fachada
+* ### Fachada - Classe que está em um pacote controlador
+* ### Singleton - Está implementado na classe Fachada
