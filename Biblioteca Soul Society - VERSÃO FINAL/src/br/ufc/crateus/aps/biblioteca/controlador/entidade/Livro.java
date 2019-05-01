@@ -72,5 +72,5 @@ public class Livro {
 		return "Nome: " + nome + "\nCódigo Único: " + cod + "\nAutor: " + autor + "\n Valor Unitario: " 
 	+ valorUnitario	+ "\nAno: " + ano + "\nSinopse: " + sinopse + "\nQuant. Estoque: " + quantEstoque+"\n\n";	
 		}	
-
+	//teste
 }
